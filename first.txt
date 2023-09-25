@@ -4,3 +4,5 @@ my second file doing new things
 new line to check diff 
 on what is going to doing 
 cls
+
+making new thind
